@@ -1,3 +1,8 @@
 h1 {
-  color: blue; 
+  color: blue;
+}
+
+body {
+  background-image: url("../img/carDog.jpg");
+  background-repeat: repeat;
 }
