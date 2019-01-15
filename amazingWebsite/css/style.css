@@ -1,8 +1,16 @@
 h1 {
+  background-color: white;
+  text-align: center;
+  margin: 0px;
+}
+
+h2 {
   color: blue;
 }
 
 body {
   background-image: url("../img/carDog.jpg");
   background-repeat: repeat;
+  margin: 0px;
+  padding: 0px;
 }
