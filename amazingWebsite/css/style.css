@@ -10,7 +10,8 @@ h2 {
 
 body {
   background-image: url("../img/carDog.jpg");
-  background-repeat: repeat;
+  background-repeat: no-repeat;
+  background-size: cover;
   margin: 0px;
   padding: 0px;
 }
