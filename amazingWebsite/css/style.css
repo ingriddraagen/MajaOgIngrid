@@ -28,11 +28,11 @@ body {
 }
 
 a img {
-  padding: 20px;
-  height: 80px;
+  padding: auto;
+  width: 15vw;
 }
 
 .mainLogo {
-  padding: 0px;
-  height: 120px;
+  padding: auto;
+  width: 20vw;
 }
