@@ -15,3 +15,27 @@ body {
   margin: 0px;
   padding: 0px;
 }
+
+.topnav {
+  background-color: white;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  margin: auto;
+  padding: 0px;
+  vertical-align: middle;
+
+}
+
+a img {
+  padding: 20px;
+  height: 80px;
+}
+
+.mainLogo {
+  padding: 0px;
+  height: 120px;
+}
