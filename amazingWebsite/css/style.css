@@ -19,6 +19,7 @@ body {
 .topnav {
   background-color: white;
   overflow: hidden;
+  display: flex;
 }
 
 /* Style the links inside the navigation bar */
