@@ -3,20 +3,19 @@
   padding: auto;
   margin: auto;
   border: auto;
-
-
 }
 
-
-.post {
-  display: inline-block;
+.post{
+  text-align: center;
+  align-items: center;
+}
+.post img{
   align-self: center;
   text-align: center;
+  margin: 0 auto;
+  background: white;
   padding: 5vw;
-  background-color: white;
-
-
-
+  background-clip: padding-box;
 }
 
 h1 {
