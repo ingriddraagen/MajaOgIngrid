@@ -8,13 +8,15 @@
 .post{
   text-align: center;
   align-items: center;
+  border: 5vw;
 }
 .post img{
+  width: 50vw;
   align-self: center;
   text-align: center;
-  margin: 0 auto;
+  margin: 1vh auto;
   background: white;
-  padding: 5vw;
+  padding: 2vw;
   background-clip: padding-box;
 }
 
