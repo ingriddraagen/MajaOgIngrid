@@ -1,7 +1,28 @@
+.posts {
+  width: 60vw;
+  padding: auto;
+  margin: auto;
+  border: auto;
 
 
-h2 {
-  color: blue;
+}
+
+
+.post {
+  display: inline-block;
+  align-self: center;
+  text-align: center;
+  padding: 5vw;
+  background-color: white;
+
+
+
+}
+
+h1 {
+  text-align: center;
+  text-shadow: 2px 2px gray;
+  color: pink;
 }
 
 body {
@@ -29,10 +50,16 @@ body {
 
 a img {
   padding: auto;
-  width: 15vw;
+  width: 12vw;
 }
 
 .mainLogo {
   padding: auto;
-  width: 20vw;
+  width: 25vw;
+}
+
+
+.topnav a:hover {
+  transition: all .3s ease-in-out;
+  transform: scale(1.1);
 }
